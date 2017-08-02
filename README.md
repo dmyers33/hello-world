@@ -1,3 +1,3 @@
 # hello-world
 Just a start
-This is just bto see if the file changed
+This is just to see if the file changed
